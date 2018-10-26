@@ -1,0 +1,29 @@
+#color-h1 {
+    background-color: aqua
+}
+#color-parrafo1 {
+    background-color: aqua
+}
+p {
+    background-color: white;
+}
+
+#first-paragraph {
+    background-color: purple;
+    color: white
+}
+
+#second-paragraph {
+    background-color: purple;
+    color: white
+}
+
+#third-paragraph {
+    background-color: purple;
+    color: white
+}
+
+.etiquetaImagen {
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,32 @@
+#color-h1 {
+    background-color: blue;
+    color: white
+}
+#color-parrafo1 {
+    background-color: blue;
+    color: white
+}
+p {
+    background-color: greenyellow;
+    color: black
+}
+
+#first-paragraph {
+    background-color: greenyellow;
+    color: black
+}
+
+#second-paragraph {
+    background-color: greenyellow;
+    color: black
+}
+
+#third-paragraph {
+    background-color: greenyellow;
+    color: black
+}
+
+.etiquetaImagen {
+    width: 100%;
+    height: 100%;
+}
